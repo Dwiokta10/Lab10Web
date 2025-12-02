@@ -2,6 +2,11 @@
 
 Aplikasi **Manajemen Barang** dengan fitur **login, register, dan logout** berbasis PHP & MySQL.
 Hanya pengguna yang sudah login yang bisa mengakses halaman utama `index.php`.
+<img width="1920" height="1128" alt="Cuplikan layar 2025-12-02 162548" src="https://github.com/user-attachments/assets/f6dc959e-b404-4818-9669-b755b8cfac39" />
+<img width="1920" height="1128" alt="Cuplikan layar 2025-12-02 162701" src="https://github.com/user-attachments/assets/a35c26f7-eeda-46b1-941d-91e98271bec0" />
+<img width="1920" height="1128" alt="Cuplikan layar 2025-12-02 162838" src="https://github.com/user-attachments/assets/46e98b5b-0a55-4e1d-832e-5075e550d6af" />
+
+
 
 ## Identitas
 
