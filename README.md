@@ -1,4 +1,4 @@
-# lab9_php_modular
+# latihan 10 php modular
 
 Aplikasi **Manajemen Barang** dengan fitur **login, register, dan logout** berbasis PHP & MySQL.
 Hanya pengguna yang sudah login yang bisa mengakses halaman utama `index.php`.
